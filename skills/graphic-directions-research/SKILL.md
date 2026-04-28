@@ -321,7 +321,7 @@ graphic-directions-<slug>/
     references-used.md    ← list of used links with dates and themes
 ```
 
-`report.md` must structurally mirror `Артефакт_—_Стилистические_рамки_v2.md`:
+`report.md` structure (in this exact order):
 
 1. Overview (Product, Audience, Task, + `[REGISTRY]` + `[STUDIOS]` trackers)
 2. Mark Analysis (only if assets are provided)
@@ -358,7 +358,7 @@ Recommendation: <one line>.
 4. **Diversity quotas are hard.** Don't ship the report without passing validation or marking ⚠️.
 5. **One asset — one set of directions.** Numbering `1.1, 1.2, 2.1, 2.2 ...`.
 6. **Number of directions = number of white spaces found** (3–5).
-7. **Report language is what the user chose at intake** (default Russian). Section structure and criterion names mirror `Артефакт_—_Стилистические_рамки_v2.md`. Localize labels in the rendered artefact (Floch axes, "Moodboard", final summary) accordingly.
+7. **Report language is what the user chose at intake** (default Russian). Section structure and criterion names follow the Output template above. Localize labels in the rendered artefact (Floch axes, "Moodboard", final summary) accordingly.
 8. **Honestly mark gaps:** `⚠️ visual not confirmed by screenshot`, `⚠️ studio not documented`, etc. Localize the marker text to the report language.
 9. **`references.md` is the source of truth.** If a domain / studio / theme / axis is missing from the file — first propose to add it, then use.
 10. **Registry: brand ≤ 2 appearances**, studio ≤ 2 appearances — running counter across the whole report.

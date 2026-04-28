@@ -103,7 +103,7 @@ Hard limits on the final set of references used in `report.md`. Verified automat
 
 ## 5. Flagship precedents (seed set)
 
-A ready-made starter corpus extracted from `Артефакт_—_Стилистические_рамки_v2.md`. The skill can use these entries directly without re-searching — all articles are already cited and links were verified at skill-creation time.
+A ready-made starter corpus. The skill can use these entries directly without re-searching — all articles are already cited and links were verified at skill-creation time.
 
 | Brand | Studio | Year | Themes | Canonical source |
 |---|---|---|---|---|
@@ -161,5 +161,5 @@ If the category matches none of the above — the skill formulates its own pair 
 
 ## 7. Changelog
 
-- **2026-04-17** — initial population from `Артефакт_—_Стилистические_рамки_v2.md` and the Perytex methodology. 32 studios, 13 publications, 32 seed precedents, 8 semantic themes, 5 quotas, 6 axes.
+- **2026-04-17** — initial population from the Perytex methodology. 32 studios, 13 publications, 32 seed precedents, 8 semantic themes, 5 quotas, 6 axes.
 - **2026-04-28** — translated to English.
