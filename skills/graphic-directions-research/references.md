@@ -1,61 +1,61 @@
 # References Registry
 
-Этот файл — единственный источник правды для поиска прецедентов в скилле `graphic-directions-research`. Все WebSearch-запросы должны быть прибиты к этим доменам через `site:`. Дополнять руками; фиксировать изменения в Changelog.
+This file is the single source of truth for precedent search in the `graphic-directions-research` skill. All WebSearch queries must be pinned to these domains via `site:`. Extend manually; record changes in the Changelog.
 
 ---
 
 ## 1. Publications
 
-Кураторские и отраслевые издания, на которые опирается аудит.
+Curated and trade publications that the audit relies on.
 
-| Издание | Домен | Что там искать |
+| Publication | Domain | What to look for |
 |---|---|---|
-| Brand New (UnderConsideration) | `underconsideration.com/brandnew` | Критические разборы ребрендингов, обычно с «Before / After» и комментарием Армина Вита |
-| BP&O (Branding, Packaging, Opinion) | `bpando.org` | Плотные разборы айдентик с вниманием к типографике |
-| It's Nice That | `itsnicethat.com` | Новые работы студий, интервью, процесс |
-| The Brand Identity | `the-brandidentity.com` | Case studies и интервью со студиями (strong process angle) |
-| Creative Review | `creativereview.co.uk` | Долгоживущая британская редакция по дизайну |
-| Print Magazine | `printmag.com` | Историческая память ремесла, тренд-аналитика |
-| Behance (галерея) | `behance.net` | Портфолио студий и дизайнеров напрямую |
-| Fonts In Use | `fontsinuse.com` | Используемые шрифты в конкретных кейсах |
-| Typewolf | `typewolf.com` | Типографический комментарий к сайтам и брендам |
-| Design Observer | `designobserver.com` | Эссе и критика |
-| Logo Design Love | `logodesignlove.com` | Архив и история знаков |
-| Logoi | `logoi.co` | Подборка актуальных знаков |
-| Eye on Design (AIGA) | `eyeondesign.aiga.org` | Независимая редакционная журналистика о дизайне |
+| Brand New (UnderConsideration) | `underconsideration.com/brandnew` | Critical reviews of rebrands, usually with Before / After and commentary by Armin Vit |
+| BP&O (Branding, Packaging, Opinion) | `bpando.org` | Dense identity write-ups with attention to typography |
+| It's Nice That | `itsnicethat.com` | New studio work, interviews, process |
+| The Brand Identity | `the-brandidentity.com` | Case studies and studio interviews (strong process angle) |
+| Creative Review | `creativereview.co.uk` | Long-running British design publication |
+| Print Magazine | `printmag.com` | Historical memory of the craft, trend analysis |
+| Behance (gallery) | `behance.net` | Studio and designer portfolios directly |
+| Fonts In Use | `fontsinuse.com` | Typefaces used in specific cases |
+| Typewolf | `typewolf.com` | Typographic commentary on sites and brands |
+| Design Observer | `designobserver.com` | Essays and criticism |
+| Logo Design Love | `logodesignlove.com` | Mark archive and history |
+| Logoi | `logoi.co` | Curated feed of contemporary marks |
+| Eye on Design (AIGA) | `eyeondesign.aiga.org` | Independent editorial design journalism |
 
 ---
 
 ## 2. Studios
 
-Студии, на чьи собственные сайты можно обращаться напрямую. Каждая строка = одна лента/портфолио. Максимум **2 появления на студию** в одном отчёте (Diversity-квота).
+Studios whose own sites can be queried directly. Each row = one work feed / portfolio. Maximum **2 appearances per studio** in a single report (Diversity quota).
 
-| Студия | URL работ | Сила |
+| Studio | Work URL | Strength |
 |---|---|---|
-| Pentagram | https://www.pentagram.com/work | Системная строгость, большие институции |
-| Wolff Olins | https://www.wolffolins.com/work | Корпоративная идентичность, консалтинг |
-| Moving Brands | https://www.movingbrands.com/work | Technology brands, глобальные roll-out'ы |
-| Koto | https://koto.studio/work | Tech-стартапы, custom type |
-| Heydays | https://heydays.no/work | Скандинавская точность, редакторская строгость |
+| Pentagram | https://www.pentagram.com/work | Systemic rigor, large institutions |
+| Wolff Olins | https://www.wolffolins.com/work | Corporate identity, consulting |
+| Moving Brands | https://www.movingbrands.com/work | Technology brands, global roll-outs |
+| Koto | https://koto.studio/work | Tech startups, custom type |
+| Heydays | https://heydays.no/work | Scandinavian precision, editorial rigor |
 | Focus Lab | https://www.focuslab.agency/work | SaaS, tone of voice, warm tech |
 | Gold Front | https://www.goldfront.com/work | Enterprise SaaS rebrands |
 | Ramotion | https://www.ramotion.com | Product brand + UI |
 | For The People | https://forthepeople.agency | Custom type, warm brands |
-| Studio fnt | https://studiofnt.com | Корейская типографика и айдентика |
+| Studio fnt | https://studiofnt.com | Korean typography and identity |
 | Studio Herrström | https://studioherrstrom.com | Music-tech, identity systems |
 | Studio Gruhl | https://studiogruhl.com | Craft + precision, materiality |
-| Bond | https://bond-agency.com/work | Финская студия, editorial подход |
+| Bond | https://bond-agency.com/work | Finnish studio, editorial approach |
 | Kokoro & Moi | https://kokoromoi.com | Participatory identity, institutional |
 | Ragged Edge | https://raggededge.com/partnerships | Fintech, challenger brands |
 | Bureau Borsche | https://bureauborsche.com | Mono-serif, industrial luxury |
 | Commission Studio | https://www.commission.studio | Materiality, craft |
-| Lo Siento | https://www.losiento.net | Испанская типографика, stencil |
+| Lo Siento | https://www.losiento.net | Spanish typography, stencil |
 | Gander | https://gander.studio | Food + lifestyle brands |
 | RE | https://www.re.agency | Corporate identity, PR |
-| Experimental Jetset | https://www.jetset.nl | Модернистская школа, responsive marks |
+| Experimental Jetset | https://www.jetset.nl | Modernist school, responsive marks |
 | Uncommon | https://uncommonstudio.com | Brand storytelling, bold geometry |
 | Inkdrop Design Studio | https://inkdrop.design | Playful geometric marks |
-| Savvy Studio | https://savvy-studio.net | Мексиканская студия, typographic clash |
+| Savvy Studio | https://savvy-studio.net | Mexican studio, typographic clash |
 | Ashfall Studio | https://ashfall.studio | Institutional trust, warm palettes |
 | Gretel | https://gretelny.com | Motion-first identity |
 | Sagmeister & Walsh | https://sagmeisterwalsh.com | Typography as art |
@@ -64,48 +64,48 @@
 | Manual | https://manualcreative.com | Consumer tech, digital product |
 | Character | https://characterandlikeness.com | Animation, mark design |
 
-Список открыт — дополнять через Pull-to-refresh.
+The list is open — extend via pull request.
 
 ---
 
 ## 3. Semantic Themes
 
-Иконка + тема + определение. Используются в блоках References каждого направления (`◉` · `Insight` · one-liner).
+Icon + theme + definition. Used in the References block of each direction (`◉` · `Insight` · one-liner).
 
-| Иконка | Тема | Что покрывает |
+| Icon | Theme | What it covers |
 |---|---|---|
-| `◉` | Insight | Момент понимания, озарение, расшифровка, открытие смысла из шума |
-| `★` | Voice | Звук, речь, запись, аудио, голос как материал |
-| `◈` | Trust | Надёжность, авторитет, institutional confidence, C-level gravitas |
-| `⟁` | Data | Метрики, визуализация, паттерны, generative / algorithmic identity |
-| `◎` | Growth | Прогресс, развитие, траектория, трансформация |
-| `◆` | Craft | Тактильность, материальность, огранка, ремесленность |
-| `◐` | Warmth | Человечность, тепло, approachable тон |
-| `□` | System | Модульность, grid, responsive, масштабируемость |
+| `◉` | Insight | Moment of understanding, revelation, decoding, extracting meaning from noise |
+| `★` | Voice | Sound, speech, recording, audio, voice as material |
+| `◈` | Trust | Reliability, authority, institutional confidence, C-level gravitas |
+| `⟁` | Data | Metrics, visualization, patterns, generative / algorithmic identity |
+| `◎` | Growth | Progress, development, trajectory, transformation |
+| `◆` | Craft | Tactility, materiality, faceting, craftsmanship |
+| `◐` | Warmth | Humanity, warmth, approachable tone |
+| `□` | System | Modularity, grid, responsive, scalability |
 
-Первые шесть — базовый набор из Artefact. Последние два — расширение для более широких категорий. Темы выбирать минимально необходимым набором на направление (обычно 3–4).
+The first six are the base set from Artefact. The last two are an extension for broader categories. Pick themes with the minimum necessary set per direction (typically 3–4).
 
 ---
 
-## 4. Diversity-квоты
+## 4. Diversity Quotas
 
-Жёсткие лимиты на итоговый набор использованных референсов в `report.md`. Проверяются автоматически в блоке Diversity Verification. Если квоты не набраны — скилл идёт на повторный круг поиска (максимум 3 круга), затем честно рапортует о непройденных квотах.
+Hard limits on the final set of references used in `report.md`. Verified automatically in the Diversity Verification block. If quotas are not met — the skill goes for another search round (max 3 rounds), then honestly reports any unmet quotas.
 
-| Критерий | Лимит | Проверка |
+| Criterion | Limit | Check |
 |---|---|---|
-| Geographic | ≥ 25% брендов не из US/UK | По стране регистрации / происхождения бренда |
-| Temporal | ≥ 20% кейсов старше 3 лет от текущей даты | По году ребрендинга/запуска |
-| Studio | ≤ 2 появления на одну студию во всём отчёте | Считать сквозным cчётчиком |
-| Industry per direction | ≥ 3 разные индустрии в блоке References одного направления | По категории бренда |
-| Registry limit | ≤ 2 появлений одного и того же бренда во всём отчёте | Через маркер `[REGISTRY]` в Overview |
+| Geographic | ≥ 25% of brands not from US/UK | By country of registration / brand origin |
+| Temporal | ≥ 20% of cases older than 3 years from current date | By rebrand / launch year |
+| Studio | ≤ 2 appearances per studio across the whole report | Running counter |
+| Industry per direction | ≥ 3 different industries in the References block of one direction | By brand category |
+| Registry limit | ≤ 2 appearances of the same brand across the whole report | Via the `[REGISTRY]` marker in Overview |
 
 ---
 
-## 5. Флагманские прецеденты (seed set)
+## 5. Flagship precedents (seed set)
 
-Готовый стартовый корпус, извлечённый из `Артефакт_—_Стилистические_рамки_v2.md`. Скилл может использовать эти записи напрямую без повторного поиска — все статьи уже цитированы, ссылки проверены на момент создания скилла.
+A ready-made starter corpus extracted from `Артефакт_—_Стилистические_рамки_v2.md`. The skill can use these entries directly without re-searching — all articles are already cited and links were verified at skill-creation time.
 
-| Бренд | Студия | Год | Темы | Канонический источник |
+| Brand | Studio | Year | Themes | Canonical source |
 |---|---|---|---|---|
 | Cornerstone | Pentagram | 2023 | `◉` Insight, `◐` Warmth | https://www.pentagram.com/work/cornerstone |
 | MIT Media Lab | Pentagram | 2014 | `⟁` Data, `□` System | https://www.pentagram.com/work/mit-media-lab |
@@ -142,11 +142,11 @@
 
 ---
 
-## 6. Оси карты восприятия (Perceptual Map)
+## 6. Perceptual Map axes
 
-Проверенные пары осей. Выбирать ту, что реально разводит бренды данной категории — не ту, что звучит красиво.
+Validated axis pairs. Pick the one that actually separates brands in the given category — not the one that sounds nice.
 
-| Категория | Рекомендуемая пара осей |
+| Category | Recommended axis pair |
 |---|---|
 | Enterprise SaaS | Warm ↔ Cold × Accessible ↔ Authoritative |
 | Pricing / Revenue tools | Corporate ↔ Expressive × Human ↔ Technocratic |
@@ -155,10 +155,11 @@
 | Craft / Material brands | System ↔ Craft × Silent ↔ Loud |
 | AI-native products | Tool ↔ Agent × Technical ↔ Narrative |
 
-Если категория не совпадает ни с одной — скилл формулирует свою пару, но обосновывает её в тексте отчёта (почему именно эти оси показывают разрыв).
+If the category matches none of the above — the skill formulates its own pair but justifies it in the report prose (why these axes reveal the gap).
 
 ---
 
 ## 7. Changelog
 
-- **2026-04-17** — первичное наполнение из `Артефакт_—_Стилистические_рамки_v2.md` и методологии Perytex. 32 студии, 13 изданий, 32 seed-прецедента, 8 семантических тем, 5 квот, 6 осей.
+- **2026-04-17** — initial population from `Артефакт_—_Стилистические_рамки_v2.md` and the Perytex methodology. 32 studios, 13 publications, 32 seed precedents, 8 semantic themes, 5 quotas, 6 axes.
+- **2026-04-28** — translated to English.
