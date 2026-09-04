@@ -16,6 +16,16 @@ npx skills add gpogrebnyack/skills@<skill-name> -g -y
 
 ## Скиллы
 
+### `design-reference-router`
+
+Маршрутизирует поиск референсов по дизайн-библиотекам. Выбирает Mobbin для продукта, One Page Love и Landing.Gallery для сайтов, Funded и Alexander Jarvis для питч-деков, VASA Works и Deck.gallery для презентаций. Проверяет MCP, подключает недостающие и соблюдает порядок вызова. Совместим с Claude Code, Codex CLI, Pi и другими агентами.
+
+```bash
+npx skills add gpogrebnyack/skills@design-reference-router -g -y
+```
+
+Подробности — в [`skills/design-reference-router/SKILL.md`](skills/design-reference-router/SKILL.md).
+
 ### `graphic-directions-research`
 
 Визуальный аудит конкурентов и генерация стилистических направлений для бренда. Скриншоты через `pageres-cli`, раскладка по семиотическому квадрату Флоша, карта восприятия, ERRC-сетка, направления с кураторскими примерами-прецедентами. Инструкции скилла — на английском, отчёт — на любом языке (по умолчанию русский, спрашивается у пользователя).
