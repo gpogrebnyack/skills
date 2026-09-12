@@ -1,0 +1,77 @@
+{
+  "_comment": "Что считаем известным: префиксы id из каталога fal.ai (ключ не нужен) и дата самой свежей записи. Новый префикс или более свежая дата = NEW. Обновляй, когда обновил гайд.",
+  "checked": "2026-09-12",
+  "families": {
+    "kling": {
+      "keywords": "kling",
+      "known_prefixes": [
+        "fal-ai/kling-image/o3",
+        "fal-ai/kling-image/v3",
+        "fal-ai/kling-video/ai-avatar",
+        "fal-ai/kling-video/create-voice",
+        "fal-ai/kling-video/o1",
+        "fal-ai/kling-video/o3",
+        "fal-ai/kling-video/v2.6",
+        "fal-ai/kling-video/v3"
+      ],
+      "newest_date": "2026-08-31",
+      "reference": "references/kling-3-omni.md"
+    },
+    "seedance": {
+      "keywords": "seedance",
+      "known_prefixes": [
+        "bytedance/seedance-2.0/fast",
+        "bytedance/seedance-2.0/image-to-video",
+        "bytedance/seedance-2.0/mini",
+        "bytedance/seedance-2.0/reference-to-video",
+        "bytedance/seedance-2.0/text-to-video",
+        "bytedance/seedance-2.5/image-to-video",
+        "bytedance/seedance-2.5/reference-to-video",
+        "bytedance/seedance-2.5/text-to-video",
+        "fal-ai/bytedance/seedance"
+      ],
+      "newest_date": "2026-07-20",
+      "reference": "references/seedance-2.5.md"
+    },
+    "nano-banana": {
+      "keywords": "nano-banana",
+      "known_prefixes": [
+        "fal-ai/gemini-25-flash-image",
+        "fal-ai/gemini-25-flash-image/edit",
+        "fal-ai/gemini-3-pro-image-preview",
+        "fal-ai/gemini-3-pro-image-preview/edit",
+        "fal-ai/gemini-3.1-flash-image-preview",
+        "fal-ai/gemini-3.1-flash-image-preview/edit",
+        "fal-ai/nano-banana",
+        "fal-ai/nano-banana-2",
+        "fal-ai/nano-banana-2/edit",
+        "fal-ai/nano-banana-pro",
+        "fal-ai/nano-banana-pro/edit",
+        "fal-ai/nano-banana/edit",
+        "fal-ai/smart-resize",
+        "google/nano-banana-2-lite",
+        "google/nano-banana-lite",
+        "google/nano-banana-lite/edit"
+      ],
+      "newest_date": "2026-06-30",
+      "reference": "references/nano-banana.md"
+    },
+    "gpt-image": {
+      "keywords": "gpt-image",
+      "known_prefixes": [
+        "fal-ai/gpt-image-1-mini",
+        "fal-ai/gpt-image-1-mini/edit",
+        "fal-ai/gpt-image-1.5",
+        "fal-ai/gpt-image-1.5/edit",
+        "fal-ai/gpt-image-1/edit-image",
+        "fal-ai/gpt-image-1/text-to-image",
+        "openai/gpt-image-2",
+        "openai/gpt-image-2.5/flare",
+        "openai/gpt-image-2.5/sunburst",
+        "openai/gpt-image-2/edit"
+      ],
+      "newest_date": "2026-09-08",
+      "reference": "references/gpt-image-2.5.md"
+    }
+  }
+}

@@ -36,6 +36,16 @@ npx skills add gpogrebnyack/skills@graphic-directions-research -g -y
 
 Подробности — в [`skills/graphic-directions-research/SKILL.md`](skills/graphic-directions-research/SKILL.md). Кураторская база источников/студий/тем — в [`references.md`](skills/graphic-directions-research/references.md).
 
+### `prompt-helper`
+
+Один вход для промптов к генеративным моделям картинок и видео: Kling 3.0 Omni, Nano Banana 2 и Pro, Seedance 2.5, GPT Image 2.5. Сам определяет модель по запросу и ведёт в нужный гайд из `references/`. При вызове запускает `scripts/check_updates.py` — сверяет версии моделей с открытым каталогом fal.ai и, если вышла новая, обновляет гайд.
+
+```bash
+npx skills add gpogrebnyack/skills@prompt-helper -g -y
+```
+
+Подробности — в [`skills/prompt-helper/SKILL.md`](skills/prompt-helper/SKILL.md).
+
 ## Лицензия
 
 MIT — см. [LICENSE](LICENSE).
