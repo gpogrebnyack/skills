@@ -1,0 +1,454 @@
+{
+ "version": 1,
+ "approved": "2026-10-23",
+ "rules": {
+  "first": "cover",
+  "last": "final",
+  "noAdjacentE3": true,
+  "maxE1Run": 3,
+  "maxBackground": {
+   "lime": 2,
+   "dark": 2
+  },
+  "e3Share": [
+   0.15,
+   0.3
+  ],
+  "noAdjacentSameSlide": true,
+  "noRepeatSlideExcept": [
+   "section"
+  ],
+  "sectionsOneTemplate": true,
+  "supermarker": {
+   "ru": 0,
+   "en": 3
+  },
+  "banned": {
+   "45": "дубль 42 — бери 42"
+  }
+ },
+ "notes": {
+  "energy": "E1 — спокойный, E2 — один акцент, E3 — громкий фон: лайм, зелёный, графит, градиент, фото, коллаж фото.",
+  "background": "lime — фон целиком лаймовый; dark — графит, зелёный, фото на весь слайд; gradient — бирюза-лайм; light — светлый."
+ },
+ "slides": {
+  "1": {
+   "e": 3,
+   "bg": "gradient"
+  },
+  "2": {
+   "e": 2,
+   "bg": "light"
+  },
+  "3": {
+   "e": 3,
+   "bg": "dark"
+  },
+  "4": {
+   "e": 3,
+   "bg": "light"
+  },
+  "5": {
+   "e": 3,
+   "bg": "light"
+  },
+  "6": {
+   "e": 3,
+   "bg": "light"
+  },
+  "7": {
+   "e": 1,
+   "bg": "light"
+  },
+  "8": {
+   "e": 3,
+   "bg": "lime"
+  },
+  "9": {
+   "e": 3,
+   "bg": "gradient"
+  },
+  "10": {
+   "e": 2,
+   "bg": "light",
+   "supermarker": true
+  },
+  "11": {
+   "e": 3,
+   "bg": "gradient"
+  },
+  "12": {
+   "e": 1,
+   "bg": "light",
+   "supermarker": true
+  },
+  "13": {
+   "e": 3,
+   "bg": "lime"
+  },
+  "14": {
+   "e": 3,
+   "bg": "dark"
+  },
+  "15": {
+   "e": 2,
+   "bg": "light"
+  },
+  "16": {
+   "e": 3,
+   "bg": "lime"
+  },
+  "17": {
+   "e": 1,
+   "bg": "light",
+   "supermarker": true
+  },
+  "18": {
+   "e": 3,
+   "bg": "lime",
+   "supermarker": true
+  },
+  "19": {
+   "e": 1,
+   "bg": "light"
+  },
+  "20": {
+   "e": 1,
+   "bg": "light"
+  },
+  "21": {
+   "e": 1,
+   "bg": "light"
+  },
+  "22": {
+   "e": 1,
+   "bg": "light"
+  },
+  "23": {
+   "e": 2,
+   "bg": "light"
+  },
+  "24": {
+   "e": 1,
+   "bg": "light",
+   "supermarker": true
+  },
+  "25": {
+   "e": 1,
+   "bg": "light"
+  },
+  "26": {
+   "e": 2,
+   "bg": "light",
+   "supermarker": true
+  },
+  "27": {
+   "e": 2,
+   "bg": "light"
+  },
+  "28": {
+   "e": 2,
+   "bg": "light"
+  },
+  "29": {
+   "e": 2,
+   "bg": "light"
+  },
+  "30": {
+   "e": 1,
+   "bg": "light"
+  },
+  "31": {
+   "e": 1,
+   "bg": "light"
+  },
+  "32": {
+   "e": 1,
+   "bg": "light"
+  },
+  "33": {
+   "e": 2,
+   "bg": "light"
+  },
+  "34": {
+   "e": 2,
+   "bg": "light"
+  },
+  "35": {
+   "e": 2,
+   "bg": "light"
+  },
+  "36": {
+   "e": 2,
+   "bg": "light"
+  },
+  "37": {
+   "e": 2,
+   "bg": "light"
+  },
+  "38": {
+   "e": 3,
+   "bg": "dark"
+  },
+  "39": {
+   "e": 3,
+   "bg": "dark"
+  },
+  "40": {
+   "e": 3,
+   "bg": "dark"
+  },
+  "41": {
+   "e": 2,
+   "bg": "light"
+  },
+  "42": {
+   "e": 2,
+   "bg": "light"
+  },
+  "43": {
+   "e": 2,
+   "bg": "light"
+  },
+  "44": {
+   "e": 2,
+   "bg": "light"
+  },
+  "45": {
+   "e": 2,
+   "bg": "light"
+  },
+  "46": {
+   "e": 1,
+   "bg": "light"
+  },
+  "47": {
+   "e": 2,
+   "bg": "light"
+  },
+  "48": {
+   "e": 2,
+   "bg": "light"
+  },
+  "49": {
+   "e": 2,
+   "bg": "light"
+  },
+  "50": {
+   "e": 1,
+   "bg": "light"
+  },
+  "51": {
+   "e": 2,
+   "bg": "light"
+  },
+  "52": {
+   "e": 2,
+   "bg": "light"
+  },
+  "53": {
+   "e": 2,
+   "bg": "light"
+  },
+  "54": {
+   "e": 2,
+   "bg": "light"
+  },
+  "55": {
+   "e": 2,
+   "bg": "light"
+  },
+  "56": {
+   "e": 2,
+   "bg": "light"
+  },
+  "57": {
+   "e": 1,
+   "bg": "light"
+  },
+  "58": {
+   "e": 2,
+   "bg": "light"
+  },
+  "59": {
+   "e": 1,
+   "bg": "light"
+  },
+  "60": {
+   "e": 1,
+   "bg": "light"
+  },
+  "61": {
+   "e": 2,
+   "bg": "light"
+  },
+  "62": {
+   "e": 2,
+   "bg": "light"
+  },
+  "63": {
+   "e": 2,
+   "bg": "light"
+  },
+  "64": {
+   "e": 1,
+   "bg": "light"
+  },
+  "65": {
+   "e": 2,
+   "bg": "light"
+  },
+  "66": {
+   "e": 2,
+   "bg": "light"
+  },
+  "67": {
+   "e": 2,
+   "bg": "light"
+  },
+  "68": {
+   "e": 2,
+   "bg": "light"
+  },
+  "69": {
+   "e": 2,
+   "bg": "light"
+  },
+  "70": {
+   "e": 2,
+   "bg": "light"
+  },
+  "71": {
+   "e": 2,
+   "bg": "light"
+  },
+  "72": {
+   "e": 2,
+   "bg": "light"
+  },
+  "73": {
+   "e": 1,
+   "bg": "light"
+  },
+  "74": {
+   "e": 2,
+   "bg": "light"
+  },
+  "75": {
+   "e": 2,
+   "bg": "light"
+  },
+  "76": {
+   "e": 1,
+   "bg": "light"
+  },
+  "77": {
+   "e": 1,
+   "bg": "light"
+  },
+  "78": {
+   "e": 2,
+   "bg": "light"
+  },
+  "79": {
+   "e": 2,
+   "bg": "light"
+  },
+  "80": {
+   "e": 2,
+   "bg": "light"
+  },
+  "81": {
+   "e": 2,
+   "bg": "light"
+  },
+  "82": {
+   "e": 2,
+   "bg": "light"
+  },
+  "83": {
+   "e": 2,
+   "bg": "light"
+  },
+  "84": {
+   "e": 3,
+   "bg": "dark"
+  },
+  "85": {
+   "e": 3,
+   "bg": "dark"
+  },
+  "86": {
+   "e": 3,
+   "bg": "dark"
+  },
+  "87": {
+   "e": 2,
+   "bg": "light"
+  },
+  "88": {
+   "e": 2,
+   "bg": "light"
+  },
+  "89": {
+   "e": 2,
+   "bg": "light"
+  },
+  "90": {
+   "e": 2,
+   "bg": "light"
+  },
+  "91": {
+   "e": 2,
+   "bg": "light"
+  },
+  "92": {
+   "e": 1,
+   "bg": "light"
+  },
+  "93": {
+   "e": 2,
+   "bg": "light"
+  },
+  "94": {
+   "e": 1,
+   "bg": "light"
+  },
+  "95": {
+   "e": 1,
+   "bg": "light"
+  },
+  "96": {
+   "e": 2,
+   "bg": "light"
+  },
+  "97": {
+   "e": 3,
+   "bg": "lime"
+  },
+  "98": {
+   "e": 3,
+   "bg": "gradient"
+  }
+ },
+ "footerThemes": [
+  "Who we are",
+  "Problem",
+  "Solution",
+  "Product",
+  "For Management",
+  "For the employee",
+  "Team analytics",
+  "Private in your space",
+  "Private by design",
+  "How does it work",
+  "Result",
+  "Plan",
+  "Interaction Flow",
+  "Recommendations",
+  "Flexible recording options",
+  "How is the recording happening",
+  "Legal by design",
+  "Beyond the store"
+ ]
+}

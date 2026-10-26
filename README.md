@@ -36,6 +36,18 @@ npx skills add gpogrebnyack/skills@graphic-directions-research -g -y
 
 Подробности — в [`skills/graphic-directions-research/SKILL.md`](skills/graphic-directions-research/SKILL.md). Кураторская база источников/студий/тем — в [`references.md`](skills/graphic-directions-research/references.md).
 
+### `lansy-deck`
+
+Собирает питч-деку Lansy в Figma Slides из готовых слайдов библиотеки. Режет текст на мысли, подбирает слайд из 10 семейств, пишет тексты под лимит знаков, собирает деку в пустом файле и проверяет переполнения и висячие слова. Внутри — короткий `SKILL.md`, CLI-справочник `cli/deck.mjs` и мост к плагину в Figma Desktop: шрифты бренда есть только там.
+
+Нужно до установки: Figma Desktop, доступ к библиотеке слайдов Lansy в команде Datum и Node.js 18+. Плагин ставится один раз: Plugins → Development → Import plugin from manifest → `~/.claude/skills/lansy-deck/bridge/plugin/manifest.json`.
+
+```bash
+npx skills add gpogrebnyack/skills@lansy-deck -g -y
+```
+
+Подробности — в [`skills/lansy-deck/SKILL.md`](skills/lansy-deck/SKILL.md).
+
 ### `prompt-helper`
 
 Один вход для промптов к генеративным моделям картинок и видео: Kling 3.0 Omni, Nano Banana 2 и Pro, Seedance 2.5, GPT Image 2.5. Сам определяет модель по запросу и ведёт в нужный гайд из `references/`. При вызове запускает `scripts/check_updates.py` — сверяет версии моделей с открытым каталогом fal.ai и, если вышла новая, обновляет гайд.

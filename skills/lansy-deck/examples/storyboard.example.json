@@ -1,0 +1,174 @@
+{
+  "lang": "en",
+  "slides": [
+    {
+      "section": "Who we are",
+      "slide": 2,
+      "footer": {
+        "Topic": "Who we are"
+      },
+      "texts": {
+        "#title": "Every Conversation\nGrows Your\nSales",
+        "#lead": "Lansy turns every customer consultation into a chance to sell more and serve better."
+      }
+    },
+    {
+      "section": "Problem",
+      "slide": 7,
+      "footer": {
+        "Topic": "Problem"
+      },
+      "texts": {
+        "#num": "01",
+        "#title": "The problem"
+      }
+    },
+    {
+      "section": "Problem",
+      "slide": 24,
+      "footer": {
+        "Topic": "Problem"
+      },
+      "texts": {
+        "#title": "Offline sales stay invisible\n*to most retailers*",
+        "#items": [
+          {
+            "#item/num": "01",
+            "#item/title": "Conversations unseen",
+            "#item/text": "The CRM shows the lost deal, but never the conversation that decided it."
+          },
+          {
+            "#item/num": "02",
+            "#item/title": "Spot checks miss most",
+            "#item/text": "Mystery shoppers cover a sliver of conversations, often weeks later."
+          },
+          {
+            "#item/num": "03",
+            "#item/title": "Decisions in the dark",
+            "#item/text": "Training, scripts and incentives rest on guesses, not evidence."
+          }
+        ]
+      }
+    },
+    {
+      "section": "Solution",
+      "slide": 13,
+      "footer": {
+        "Topic": "Solution"
+      },
+      "texts": {
+        "#title": "Lansy hears every conversation\nand turns it into facts.",
+        "#lead": "Managers see where sales are lost.\nEvery salesperson gets a daily review of their consultations."
+      }
+    },
+    {
+      "section": "Solution",
+      "slide": 59,
+      "footer": {
+        "Topic": "Plan"
+      },
+      "texts": {
+        "#title": "Rollout",
+        "#lead": "Lansy consultants guide your team through every step, from briefing to the first reviews.",
+        "#items": [
+          {
+            "#item/num": "01",
+            "#item/title": "Briefing",
+            "#item/text": "We agree on sales goals and service standards."
+          },
+          {
+            "#item/num": "02",
+            "#item/title": "Setup",
+            "#item/text": "We install the devices and prepare the legal documents."
+          },
+          {
+            "#item/num": "03",
+            "#item/title": "Launch",
+            "#item/text": "Your team goes live and gets its first reviews."
+          },
+          {
+            "#item/num": "04",
+            "#item/title": "Support",
+            "#item/text": "Every week we review results with your managers."
+          }
+        ]
+      }
+    },
+    {
+      "section": "Product",
+      "slide": 70,
+      "footer": {
+        "Topic": "Product"
+      },
+      "texts": {
+        "#title": "One platform for your whole team",
+        "#lead": "Every consultation is a chance to grow.",
+        "#items": [
+          {
+            "#item/title": "Managers",
+            "#item/text": "See what converts, where deals are lost and how to grow revenue."
+          },
+          {
+            "#item/title": "Salespeople",
+            "#item/text": "Daily guidance to close faster and sell bigger."
+          },
+          {
+            "#item/title": "Customers",
+            "#item/text": "The right recommendation on every visit."
+          }
+        ]
+      }
+    },
+    {
+      "section": "Result",
+      "slide": 47,
+      "footer": {
+        "Topic": "Result"
+      },
+      "texts": {
+        "#title": "What changed in our pilots",
+        "#items": [
+          {
+            "#item/label": "Average check",
+            "#item/value": "11%",
+            "#item/text": "Up to 11% higher average check in retail and hospitality pilots."
+          },
+          {
+            "#item/label": "Conversion",
+            "#item/value": "+20%",
+            "#item/text": "Offer-to-purchase conversion at a five-star hotel reception."
+          },
+          {
+            "#item/label": "Loyalty offers",
+            "#item/value": "1.5×",
+            "#item/text": "Baristas offered the loyalty card 1.5× more often in a coffee chain."
+          }
+        ]
+      }
+    },
+    {
+      "section": "Result",
+      "slide": 97,
+      "footer": {
+        "Topic": "Result"
+      },
+      "texts": {
+        "#title": "Let’s make your\noffline sales\neven stronger.\nShall we start?",
+        "#items": [
+          {
+            "#item/label": "Email",
+            "#item/text": "sales@lansy.ai"
+          },
+          {
+            "#item/label": "Phone",
+            "#item/text": "+971 (0) 56 509 9514"
+          },
+          {
+            "#item/label": "Website",
+            "#item/text": "lansy.ai"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,497 @@
+{
+ "fileKey": "3m8vS0i2okRWSOD3KaPVUX",
+ "fileName": "Lansy Deck Library (test)",
+ "published": true,
+ "slides": {
+  "30026:94": {
+   "name": "Cover/1",
+   "id": "5:19717",
+   "key": "d9f63ee8978a36e151601f4734b03849176500d7"
+  },
+  "30026:42": {
+   "name": "Cover/2",
+   "id": "5:19718",
+   "key": "e6333cf7e43b7025a6e7e17b48bcae52b2884e9a"
+  },
+  "30026:68": {
+   "name": "Cover/3",
+   "id": "5:19719",
+   "key": "812040aa90d8ccdd8c4d3854b9d49232ba03d017"
+  },
+  "30027:282": {
+   "name": "Cover/4",
+   "id": "5:19720",
+   "key": "1a63c984f023ddd1a42e3b59a22a519f840090f1"
+  },
+  "30027:284": {
+   "name": "Cover/5",
+   "id": "5:19721",
+   "key": "4a6ccd4ef608a018ffaeb48194154c919f353843"
+  },
+  "30027:286": {
+   "name": "Cover/6",
+   "id": "5:19722",
+   "key": "dd854934202f49961c3fc1a003a14c2b30371d51"
+  },
+  "30049:13557": {
+   "name": "Section/7",
+   "id": "5:19723",
+   "key": "58e7c691e60459b60111d9d5afae403dc49fee6d"
+  },
+  "30026:149": {
+   "name": "Section/8",
+   "id": "5:19724",
+   "key": "d36a26453ae5f85bd7d207a3824644e79b701033"
+  },
+  "30026:175": {
+   "name": "Section/9",
+   "id": "5:19725",
+   "key": "14ef83fdbba4e0de8f4f7e571213b8a3dacb53fb"
+  },
+  "30027:290": {
+   "name": "Section/10",
+   "id": "5:19726",
+   "key": "5de7238c2d0cfdff1ded68ca315583b669fccc41"
+  },
+  "30027:292": {
+   "name": "Section/11",
+   "id": "5:19727",
+   "key": "937d5cdd71e0ba5e461291b66c7fc3dbc55d55fd"
+  },
+  "30026:203": {
+   "name": "Statement/12",
+   "id": "5:19728",
+   "key": "221810413c1651bb6027d0abd1fbce020733602b"
+  },
+  "30026:237": {
+   "name": "Statement/13",
+   "id": "5:19729",
+   "key": "eb34b16d2552983206780e4dca02977b4f031441"
+  },
+  "30026:262": {
+   "name": "Statement/14",
+   "id": "5:19730",
+   "key": "45461b488f3a05628fa0cbe6d21fe2e7127361da"
+  },
+  "30027:294": {
+   "name": "Statement/15",
+   "id": "5:19731",
+   "key": "22d4fe34c3b60a35f89a24b104e0323a2a0b4dce"
+  },
+  "30027:296": {
+   "name": "Statement/16",
+   "id": "5:19732",
+   "key": "4214690b1daff456e21235f7e105625689ef0007"
+  },
+  "30027:298": {
+   "name": "Statement/17",
+   "id": "5:19733",
+   "key": "d0909d59710c29cd15be39260b21c3964c4ddd19"
+  },
+  "30027:300": {
+   "name": "Statement/18",
+   "id": "5:19734",
+   "key": "d340f5b15a8a86885352b52bc6181e76ca41b1d4"
+  },
+  "30026:289": {
+   "name": "Points/19",
+   "id": "5:19735",
+   "key": "604d043ef74ee5b93e7fa0365eafe33818389726"
+  },
+  "30027:320": {
+   "name": "Points/20",
+   "id": "5:19736",
+   "key": "ca7283e7df257e449ad0b1e82f8eee0f4bbd766c"
+  },
+  "30027:306": {
+   "name": "Points/21",
+   "id": "5:19737",
+   "key": "e608b68c1c201ac74dc85244497c5338858f356c"
+  },
+  "30026:325": {
+   "name": "Points/22",
+   "id": "5:19738",
+   "key": "dfa27e6c0cce3bd977b658e437739b56f8cba088"
+  },
+  "30026:361": {
+   "name": "Points/23",
+   "id": "5:19739",
+   "key": "667d142a51e53059f1a3f17d1d8a7fffb2659d66"
+  },
+  "30027:302": {
+   "name": "Points/24",
+   "id": "5:19740",
+   "key": "52c9dde00f5cc5a72bc588c3a0bf619ee8806c74"
+  },
+  "30027:304": {
+   "name": "Points/25",
+   "id": "5:19741",
+   "key": "fd24ddab1fc787b0ab7e1aa0ad27dd9dd231127a"
+  },
+  "30027:308": {
+   "name": "Points/26",
+   "id": "5:19742",
+   "key": "3af0084bc97d32fa4aac3a8beaf6a7d3f2efee8e"
+  },
+  "30027:310": {
+   "name": "Points/27",
+   "id": "5:19743",
+   "key": "7c87248f39b29a580460de6b95e0f0e0baf3a4a2"
+  },
+  "30027:312": {
+   "name": "Points/28",
+   "id": "5:19744",
+   "key": "763a7a63e13c2183c399a92ce5d94cf738e50148"
+  },
+  "30027:314": {
+   "name": "Points/29",
+   "id": "5:19745",
+   "key": "17b921c58b3b54cd2db29d403a1073cc53dd79ec"
+  },
+  "30027:316": {
+   "name": "Points/30",
+   "id": "5:19746",
+   "key": "a1c669cd4047d2209bcae2d605bc169b992265e2"
+  },
+  "30027:318": {
+   "name": "Points/31",
+   "id": "5:19747",
+   "key": "340239f4ab230c7b7910905eb35565236ffd7fc4"
+  },
+  "30027:322": {
+   "name": "Points/32",
+   "id": "5:19748",
+   "key": "7c9914e0e709df6e64ffc2fe704c6f841f47553e"
+  },
+  "30027:324": {
+   "name": "Points/33",
+   "id": "5:19749",
+   "key": "61c1bfce136687b287ac8a8df7ab812711bc9438"
+  },
+  "30027:326": {
+   "name": "Points/34",
+   "id": "5:19750",
+   "key": "a345b04a7bb013dc4ed57f4a0379cf13c031e8fe"
+  },
+  "30027:328": {
+   "name": "Points/35",
+   "id": "5:19751",
+   "key": "8a8f14803690183c2b5579e052b20db12dcfdcf1"
+  },
+  "30027:330": {
+   "name": "Points/36",
+   "id": "5:19752",
+   "key": "632f3339c39993fc99f29232a6be1f983e8e28fd"
+  },
+  "30027:332": {
+   "name": "Points/37",
+   "id": "5:19753",
+   "key": "e1c7342ec74c1035463dedf823d56c59f22054b4"
+  },
+  "30027:334": {
+   "name": "Points/38",
+   "id": "5:19754",
+   "key": "ac4acb9d2585f2780e4aa7f38cbe7b9039710cf4"
+  },
+  "30027:336": {
+   "name": "Points/39",
+   "id": "5:19755",
+   "key": "ccc026d344d6d67c3964a243153b03ff10768711"
+  },
+  "30027:338": {
+   "name": "Points/40",
+   "id": "5:19756",
+   "key": "36072573f7a329456601e21b3532174ac12dde83"
+  },
+  "24073:428": {
+   "name": "Points/41",
+   "id": "5:19757",
+   "key": "b9dc9206a2b52f41b811f42cad8816722610c2e9"
+  },
+  "28139:57": {
+   "name": "Points/42",
+   "id": "5:19758",
+   "key": "34229227cf6fc9099efcc41420755091a08ddf91"
+  },
+  "28139:199": {
+   "name": "Points/43",
+   "id": "5:19759",
+   "key": "a8b53b3813be80da24d8216ac8e8bd8e81bec1cc"
+  },
+  "26034:60": {
+   "name": "Points/44",
+   "id": "5:19760",
+   "key": "c3aea28535c88b7395c62e8613210caae924b2b3"
+  },
+  "28139:251": {
+   "name": "Points/45",
+   "id": "5:19761",
+   "key": "8040794ad9eb63f768e48ca740f7f7478d683a83"
+  },
+  "28085:37": {
+   "name": "Points/46",
+   "id": "5:19762",
+   "key": "214513e6b405db12a5f6f2d1c6fca3b832fe7286"
+  },
+  "30027:340": {
+   "name": "Numbers/47",
+   "id": "5:19763",
+   "key": "aafa5211268c5a3f8b5a5c70be7c7935a1b81f00"
+  },
+  "30027:342": {
+   "name": "Numbers/48",
+   "id": "5:19764",
+   "key": "1f7814317768a3785094a693b249bcc6f3f542fa"
+  },
+  "30027:344": {
+   "name": "Numbers/49",
+   "id": "5:19765",
+   "key": "a3b6bf0ef97192cd94d304ec10042a206b64aa72"
+  },
+  "30027:346": {
+   "name": "Numbers/50",
+   "id": "5:19766",
+   "key": "037375cc85f6cb0a1e12b7cf1c1939e6dfe55c4b"
+  },
+  "30027:348": {
+   "name": "Numbers/51",
+   "id": "5:19767",
+   "key": "fa2733c72fbfce2a0e5f8f4a68f299729b047a99"
+  },
+  "30027:350": {
+   "name": "Numbers/52",
+   "id": "5:19768",
+   "key": "0fa2d21faf22f6039ea750658d36a3a54fe21e56"
+  },
+  "30027:352": {
+   "name": "Numbers/53",
+   "id": "5:19769",
+   "key": "da3dae519bbe6a704156ef1a3cce4d9de24ed472"
+  },
+  "30027:354": {
+   "name": "Numbers/54",
+   "id": "5:19770",
+   "key": "faf0df69fe479aa01de8506768e052093cb7cba4"
+  },
+  "30027:360": {
+   "name": "Numbers/55",
+   "id": "5:19771",
+   "key": "96e5594b94d2bbcf264b6c6bbca92f683c4925a6"
+  },
+  "24073:465": {
+   "name": "Numbers/56",
+   "id": "5:19772",
+   "key": "17d68e04b0bf45c31dc17045f81349a0476d4a8a"
+  },
+  "30027:362": {
+   "name": "Process/57",
+   "id": "5:19773",
+   "key": "dc341663c094b1e0ed942e1c7123e61edbedb59b"
+  },
+  "30027:364": {
+   "name": "Process/58",
+   "id": "5:19774",
+   "key": "fe7d20d23b8582716f0d2d3e730557645e144e1a"
+  },
+  "30027:366": {
+   "name": "Process/59",
+   "id": "5:19775",
+   "key": "6f3fc8ee728867801d4f59306df109da039c7451"
+  },
+  "30027:368": {
+   "name": "Process/60",
+   "id": "5:19776",
+   "key": "2305a2fb9fac29fa57fd67ced8ef2b54efcdbb9b"
+  },
+  "30027:372": {
+   "name": "Process/61",
+   "id": "5:19777",
+   "key": "ad7c696e3d6ca424a22d0ffc9cefd1e3a19b8fcd"
+  },
+  "30027:376": {
+   "name": "Process/62",
+   "id": "5:19778",
+   "key": "48eed36283fec21db7f9418f65cdbc768c4bbcc7"
+  },
+  "30027:380": {
+   "name": "Process/63",
+   "id": "5:19779",
+   "key": "e32e7b76c426860c2023dca7c9975a85b7c7a7ef"
+  },
+  "24073:298": {
+   "name": "Process/64",
+   "id": "5:19780",
+   "key": "0bd790de543c7108f63cb2c940e7c1499ade24c6"
+  },
+  "24073:397": {
+   "name": "Process/65",
+   "id": "5:19781",
+   "key": "5665b09d6ec6fab2be97206f65d7359c273b926c"
+  },
+  "28139:104": {
+   "name": "Process/66",
+   "id": "5:19782",
+   "key": "baec27d69a7d14208051879064b6c721a975da60"
+  },
+  "28098:37": {
+   "name": "Process/67",
+   "id": "5:19783",
+   "key": "eceab51f784898a7757014f430294bc36d51db9c"
+  },
+  "28139:298": {
+   "name": "Process/68",
+   "id": "5:19784",
+   "key": "4d04a6207d62e094694b3a07d841ac6a0f6e34f5"
+  },
+  "28016:37": {
+   "name": "Process/69",
+   "id": "5:19785",
+   "key": "d166fb39b31f13cfe36964a600a8afe80492be13"
+  },
+  "30027:384": {
+   "name": "Interface/70",
+   "id": "5:19786",
+   "key": "b9914587534de424a43942b4cd189405b4490582"
+  },
+  "30027:386": {
+   "name": "Interface/71",
+   "id": "5:19787",
+   "key": "42b5a590f6a46c8944b3c951cdc0604f0619de90"
+  },
+  "30027:388": {
+   "name": "Interface/72",
+   "id": "5:19788",
+   "key": "63cee407b27ceb5d5db04ddfe5c91bb42adae5cd"
+  },
+  "30027:390": {
+   "name": "Interface/73",
+   "id": "5:19789",
+   "key": "cc23b0fb685d40f74eea0e8485a9ed71ce4c5b40"
+  },
+  "30027:392": {
+   "name": "Interface/74",
+   "id": "5:19790",
+   "key": "751bfc31d35f78f2ae523f76189cb6243eb0f009"
+  },
+  "30027:394": {
+   "name": "Interface/75",
+   "id": "5:19791",
+   "key": "4d795c948ba4a5c56cc314e56f504bd98ba0e810"
+  },
+  "30027:396": {
+   "name": "Interface/76",
+   "id": "5:19792",
+   "key": "140d0d0d28d4d6e52b774168d5c5f4cd3a09c8a1"
+  },
+  "30082:10152": {
+   "name": "Interface/77",
+   "id": "5:19793",
+   "key": "9379cf243cb47dadc12f7f86b5a2126597536ad6"
+  },
+  "30027:398": {
+   "name": "Interface/78",
+   "id": "5:19794",
+   "key": "d04930725f9d3d5afd5a45ee4c3f16eef7253b65"
+  },
+  "30027:400": {
+   "name": "Interface/79",
+   "id": "5:19795",
+   "key": "385ae2aaf59381903d1788c58ef152f0e8356767"
+  },
+  "30027:416": {
+   "name": "Interface/80",
+   "id": "5:19796",
+   "key": "074add0a88cf7e62ebd221ad8a8bd03db5e2c245"
+  },
+  "30027:418": {
+   "name": "Interface/81",
+   "id": "5:19797",
+   "key": "543f9b4489cabdf347032ac37a6b2e7163172ae8"
+  },
+  "30027:420": {
+   "name": "Interface/82",
+   "id": "5:19798",
+   "key": "a2b99d71a0f09e83c867162b1806551457922a20"
+  },
+  "30027:422": {
+   "name": "Interface/83",
+   "id": "5:19799",
+   "key": "a3abdc0d3b86cc36f8970b8a9ac2d20ab5c1a295"
+  },
+  "30027:424": {
+   "name": "Interface/84",
+   "id": "5:19800",
+   "key": "9ade0c4225d37079a47a545f21273d6a8c372e42"
+  },
+  "30027:426": {
+   "name": "Interface/85",
+   "id": "5:19801",
+   "key": "cb5ab908bb63460d44e23f4871aa1e12fdc780b8"
+  },
+  "30027:428": {
+   "name": "Interface/86",
+   "id": "5:19802",
+   "key": "8d7d090aff3cff1b8d9c9a13ca8aefcbf5eb615c"
+  },
+  "30027:430": {
+   "name": "Interface/87",
+   "id": "5:19803",
+   "key": "fa637e07f65ad418330c1719d75b72db88263c4c"
+  },
+  "30027:432": {
+   "name": "Interface/88",
+   "id": "5:19804",
+   "key": "c8385e036cdb60ee5dd5a669f58d67d6c7bdd765"
+  },
+  "30027:434": {
+   "name": "Interface/89",
+   "id": "5:19805",
+   "key": "ddd8bfd1cfda928e645b569ba9fcfe3dde6c4f9d"
+  },
+  "30027:436": {
+   "name": "Interface/90",
+   "id": "5:19806",
+   "key": "0e345cb1e2a59739ea653726c8d75963d225233b"
+  },
+  "30027:438": {
+   "name": "Interface/91",
+   "id": "5:19807",
+   "key": "4acf8622a03fe51b67c953e4c32b9ed235daf62e"
+  },
+  "26001:19": {
+   "name": "Interface/92",
+   "id": "5:19808",
+   "key": "230d475d51eb405fc1c4f4abf7637e46e5872117"
+  },
+  "30027:446": {
+   "name": "Table/93",
+   "id": "5:19809",
+   "key": "673d4b73e067c68278327804b2cb519ff3282dfe"
+  },
+  "30027:448": {
+   "name": "Table/94",
+   "id": "5:19810",
+   "key": "da61009bb17b6d7f13b5bf08ed66565271b28184"
+  },
+  "30027:450": {
+   "name": "Table/95",
+   "id": "5:19811",
+   "key": "fcce4be47b35416fafe785d1f2192fbf30d0a79f"
+  },
+  "30027:458": {
+   "name": "Pause/96",
+   "id": "5:19812",
+   "key": "586a91069e3d071e830dda95015c11448ffee669"
+  },
+  "30027:462": {
+   "name": "Closing/97",
+   "id": "5:19813",
+   "key": "7f59402c8232db58903afdda539fcada612a1cd7"
+  },
+  "30027:466": {
+   "name": "Closing/98",
+   "id": "5:19814",
+   "key": "678e1f1781b4475d9f59ad51358b43c1b8826b2a"
+  }
+ }
+}
