@@ -1,0 +1,14 @@
+{
+  "name": "Lansy Deck Bridge",
+  "id": "lansy-deck-bridge-dev",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "editorType": ["figma", "slides"],
+  "documentAccess": "dynamic-page",
+  "enablePrivatePluginApi": true,
+  "networkAccess": {
+    "allowedDomains": ["none"],
+    "devAllowedDomains": ["http://localhost:3917"]
+  }
+}

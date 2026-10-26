@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<body style="font: 12px system-ui, sans-serif; margin: 12px; color: #201F1D;">
+  <div><b>Lansy Bridge</b> · <span id="state">connecting…</span></div>
+  <div id="file" style="margin-top: 6px; color: #75736F;"></div>
+  <div id="last" style="margin-top: 6px; color: #75736F;"></div>
+<script>
+// UI thread: long-polls the local server for jobs and posts results back.
+const SERVER = 'http://localhost:3917';
+const $ = (id) => document.getElementById(id);
+let info = null;
+
+onmessage = async (event) => {
+  const msg = event.data.pluginMessage;
+  if (!msg) return;
+  if (msg.type === 'hello') {
+    info = msg.info;
+    $('file').textContent = info.fileName + (info.isMaster ? ' (MASTER, read-only)' : '');
+    poll();
+  }
+  if (msg.type === 'result') {
+    $('last').textContent = 'job ' + msg.id + ': ' + (msg.ok ? 'ok' : 'error') + (msg.ms != null ? ' · ' + msg.ms + ' ms' : '');
+    await fetch(SERVER + '/result', { method: 'POST', headers: { 'Content-Type': 'text/plain' }, body: JSON.stringify(msg) });
+  }
+};
+
+async function poll() {
+  for (;;) {
+    try {
+      const res = await fetch(SERVER + '/next', { method: 'POST', headers: { 'Content-Type': 'text/plain' }, body: JSON.stringify(info) });
+      $('state').textContent = 'connected';
+      if (res.status === 200) {
+        const job = await res.json();
+        $('last').textContent = 'job ' + job.id + ': running…';
+        parent.postMessage({ pluginMessage: { type: 'job', job } }, '*');
+      }
+    } catch (e) {
+      $('state').textContent = 'server offline, retrying…';
+      await new Promise((r) => setTimeout(r, 2000));
+    }
+  }
+}
+</script>
+</body>
+</html>
